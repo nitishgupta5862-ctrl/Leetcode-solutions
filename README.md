@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0907-sum-of-subarray-minimums](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [3731-find-missing-elements](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0901-online-stock-span) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
