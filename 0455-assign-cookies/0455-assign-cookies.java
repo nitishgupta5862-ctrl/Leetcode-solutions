@@ -4,10 +4,10 @@ class Solution {
         Arrays.sort(s);
         int i=0;
         int j=0;
-        int count=0;
+      //  int count=0;
         while(i<g.length &&j<s.length){
             if(s[j]>=g[i]){
-                count++;
+               // count++;
                 j++;
                 i++;
             }
@@ -15,6 +15,7 @@ class Solution {
                 j++;
             }
         }
-        return count;
+       // return count;
+       return i;
     }
 }
