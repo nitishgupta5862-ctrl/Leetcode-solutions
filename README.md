@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0435-non-overlapping-intervals](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0907-sum-of-subarray-minimums](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0455-assign-cookies) |
