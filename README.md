@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Hash Table
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
