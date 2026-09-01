@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
 |  |
 | ------- |
