@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1200-minimum-absolute-difference](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1470-shuffle-the-array](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0875-koko-eating-bananas](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
