@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1200-minimum-absolute-difference](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1470-shuffle-the-array](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1552-magnetic-force-between-two-balls](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
 |  |
