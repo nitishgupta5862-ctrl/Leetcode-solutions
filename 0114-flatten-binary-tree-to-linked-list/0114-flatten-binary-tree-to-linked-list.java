@@ -15,28 +15,44 @@
  */
 class Solution {
     public void flatten(TreeNode root) {
-        if(root==null){
-            return;
-        }
-     ArrayList<TreeNode> ans=new ArrayList<>();
-     preorder(root,ans);
-     for(int i=0;i<ans.size()-1;i++){
-        TreeNode a=ans.get(i);
-        TreeNode b=ans.get(i+1);
-        a.right=b;
-        a.left=null;
-     }
-     TreeNode last=ans.get(ans.size()-1);
-        last.left=null;
-        last.right=null;
+    //     if(root==null){
+    //         return;
+    //     }
+    //  ArrayList<TreeNode> ans=new ArrayList<>();
+    //  preorder(root,ans);
+    //  for(int i=0;i<ans.size()-1;i++){
+    //     TreeNode a=ans.get(i);
+    //     TreeNode b=ans.get(i+1);
+    //     a.right=b;
+    //     a.left=null;
+    //  }
+    //  TreeNode last=ans.get(ans.size()-1);
+    //     last.left=null;
+    //     last.right=null;
      
-    }
-    public void preorder(TreeNode root, ArrayList<TreeNode> ans){
-        if(root==null){
-            return;
-        }
-        ans.add(root);
-        preorder(root.left,ans);
-        preorder(root.right,ans);
+    // }
+    // public void preorder(TreeNode root, ArrayList<TreeNode> ans){
+    //     if(root==null){
+    //         return;
+    //     }
+    //     ans.add(root);
+    //     preorder(root.left,ans);
+    //     preorder(root.right,ans);
+  //  2method
+  if(root==null){
+    return;
+  }
+  TreeNode lst=root.left;
+  TreeNode rst=root.right;
+  root.left=null;
+  root.left=null;
+  flatten(lst);
+  flatten(rst);
+  root.right=lst;
+  TreeNode last=root; //last node find karge lst ka
+  while(last.right !=null){
+    last=last.right;
+  }
+    last.right=rst;  //last me jodne ke liye
     }
 }
