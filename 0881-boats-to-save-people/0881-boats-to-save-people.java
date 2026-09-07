@@ -6,15 +6,11 @@ class Solution {
         int count=0;
         while(i<=j){
             if(people[i]+people[j]<=limit){
-              count++;
+             // count++;
               i++;
-              j--;
-
             }
-            else{
-                j--;
-                count++;
-            }
+           j--;
+           count++;
         }
         return count;
     }
