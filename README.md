@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0443-string-compression) |
 | [2390-removing-stars-from-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
+| [3110-score-of-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
