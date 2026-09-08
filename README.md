@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0443-string-compression) |
+| [0709-to-lower-case](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [2129-capitalize-the-title](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
