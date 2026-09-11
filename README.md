@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Tree
 |  |
