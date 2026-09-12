@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1470-shuffle-the-array](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Interactive
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Timsort
 |  |
 | ------- |
