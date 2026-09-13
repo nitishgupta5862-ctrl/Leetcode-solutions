@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Timsort
 |  |
