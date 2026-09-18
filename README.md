@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0415-add-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-alternating-digit-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
