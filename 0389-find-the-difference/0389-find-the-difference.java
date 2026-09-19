@@ -1,6 +1,6 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        char sum=0;
+        //char sum=0;
         char s1[]=s.toCharArray();
         char s2[]=t.toCharArray();
         // for(int i=0;i<s1.length;i++){
