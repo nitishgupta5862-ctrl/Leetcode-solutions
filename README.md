@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2129-capitalize-the-title](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## DP on Trees
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Timsort
 |  |
 | ------- |
