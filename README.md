@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0187-repeated-dna-sequences](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Lifting
 |  |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -454,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -462,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -470,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
