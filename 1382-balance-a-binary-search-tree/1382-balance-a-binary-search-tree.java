@@ -17,8 +17,8 @@ class Solution {
     public TreeNode balanceBST(TreeNode root) {
         ArrayList<Integer> inorder=new ArrayList<>();
         getinorder(root,inorder);
-        return createBst(inorder,0,inorder.size()-1);
-        
+        root= createBst(inorder,0,inorder.size()-1);
+        return root;
         
     }
     public void getinorder(TreeNode root,ArrayList<Integer> inorder){
