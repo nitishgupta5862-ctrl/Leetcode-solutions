@@ -10,18 +10,26 @@
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-           if (p.val > q.val) {
-            TreeNode temp = p;
-            p = q;
-            q = temp;
-        }
-        if(p.val<=root.val &&root.val<=q.val){
-            return root;
-        }else if(root.val>q.val){
+        //    if (p.val > q.val) {             //method1 
+        //     TreeNode temp = p;              //isko aisa isliye kyuki pata nhi p or q bada ha
+        //     p = q;
+        //     q = temp;
+        // }
+        // if(p.val<=root.val &&root.val<=q.val){
+        //     return root;
+        // }else if(root.val>q.val){
+        //     return lowestCommonAncestor(root.left,p,q);
+        // }else{
+        //     return lowestCommonAncestor(root.right,p,q);
+        // }
+
+
+        if(root.val>p.val &&root.val >q.val){
             return lowestCommonAncestor(root.left,p,q);
-        }else{
+        }
+        if(root.val<p.val &&root.val <q.val){
             return lowestCommonAncestor(root.right,p,q);
         }
-        
+        return root;
     }
 }
