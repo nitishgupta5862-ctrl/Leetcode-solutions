@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
