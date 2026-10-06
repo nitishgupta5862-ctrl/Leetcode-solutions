@@ -39,20 +39,37 @@ class Solution {
     //     preorder(root.left,ans);
     //     preorder(root.right,ans);
   //  2method
-  if(root==null){
-    return;
-  }
-  TreeNode lst=root.left;
-  TreeNode rst=root.right;
-  root.left=null;
-  root.left=null;
-  flatten(lst);
-  flatten(rst);
-  root.right=lst;
-  TreeNode last=root; //last node find karge lst ka
-  while(last.right !=null){
-    last=last.right;
-  }
-    last.right=rst;  //last me jodne ke liye
+//   if(root==null){
+//     return;
+//   }
+//   TreeNode lst=root.left;
+//   TreeNode rst=root.right;
+//   root.left=null;
+//   root.left=null;
+//   flatten(lst);
+//   flatten(rst);
+//   root.right=lst;
+//   TreeNode last=root; //last node find karge lst ka
+//   while(last.right !=null){
+//     last=last.right;
+//   }
+//     last.right=rst;  //last me jodne ke liye
+
+//method 3
+     
+     TreeNode curr=root;
+     while(curr!=null){
+        if(curr.left!=null){
+            TreeNode pred=curr.left;
+            while(pred.right!=null){
+                pred=pred.right;
+            }
+            pred.right=curr.right;
+            curr.right=curr.left;
+            curr.left=null;
+        }else{
+            curr=curr.right;
+        }
+     }
     }
 }
