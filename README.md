@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
