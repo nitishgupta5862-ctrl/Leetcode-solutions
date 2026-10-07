@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0901-online-stock-span) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
