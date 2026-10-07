@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0290-word-pattern) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
