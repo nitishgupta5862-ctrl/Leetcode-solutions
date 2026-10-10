@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1382-balance-a-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1400-construct-k-palindrome-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
