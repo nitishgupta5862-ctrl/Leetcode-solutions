@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Design
