@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3903-smallest-stable-index-i](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1400-construct-k-palindrome-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
