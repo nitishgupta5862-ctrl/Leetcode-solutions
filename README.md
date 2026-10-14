@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0973-k-closest-points-to-origin](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -610,4 +615,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
