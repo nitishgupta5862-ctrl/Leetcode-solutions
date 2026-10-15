@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1400-construct-k-palindrome-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Longest Increasing Subsequence
 |  |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Rolling Hash
 |  |
 | ------- |
