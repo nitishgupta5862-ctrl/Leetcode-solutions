@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0890-find-and-replace-pattern](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1400-construct-k-palindrome-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -530,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
