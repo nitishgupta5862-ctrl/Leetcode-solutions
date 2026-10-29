@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-alternating-digit-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Euclidean Algorithm
 |  |
 | ------- |
