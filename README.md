@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
