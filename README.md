@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
+| [0896-monotonic-array](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
