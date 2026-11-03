@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -803,4 +805,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
