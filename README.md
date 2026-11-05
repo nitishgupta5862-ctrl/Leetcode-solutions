@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0907-sum-of-subarray-minimums](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2427-number-of-common-factors](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Iterator
 |  |
 | ------- |
