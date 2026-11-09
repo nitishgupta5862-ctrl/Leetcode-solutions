@@ -15,8 +15,8 @@ class Solution {
               List<String> ans=new ArrayList<>();
                ans.add(sb1.toString());
                ans.add(sb2.toString());
-                sb1.setLength(0);
-                sb2.setLength(0);
+               // sb1.setLength(0);
+               // sb2.setLength(0);
                 i++;
             
             res.add(ans);
@@ -24,7 +24,7 @@ class Solution {
                 i++;
             }
         }
-       //  res.add(ans);
+       
         return res;
     }
 }
