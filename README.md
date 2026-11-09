@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0260-single-number-iii) |
