@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3693-climbing-stairs-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3693-climbing-stairs-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
