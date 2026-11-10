@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3693-climbing-stairs-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3477-fruits-into-baskets-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Greedy
@@ -850,4 +853,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/nitishgupta5862-ctrl/Leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
